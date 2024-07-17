@@ -20,7 +20,10 @@
 <body>
     <form id="form1" runat="server">
         <div class="centerd">
-            Welcome
+            Welcome OpsWizard Team
+        </div>
+        <div class="centerd">
+            First CI/CD Pipeline Successful 🚀
         </div>
     </form>
 </body>
